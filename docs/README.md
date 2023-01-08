@@ -10,7 +10,7 @@ actions:
     type: secondary
 features:
   - title: 安全
-    details: 9种加密算法,随心所欲,自由组合
+    details: 36种加密算法,随心所欲,自由组合
   - title: 高效
     details: 极速畅快体验,批量加密,一步到位
   - title: 全面
