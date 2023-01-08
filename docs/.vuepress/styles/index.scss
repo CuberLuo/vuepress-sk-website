@@ -1,0 +1,15 @@
+:root {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  // brand colors
+  --c-brand: #646cff;
+  --c-brand-light: #747bff;
+}
+html.dark {
+  --c-brand: #646cff;
+  --c-brand-light: #747bff;
+}
