@@ -12,5 +12,11 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.10",
+    "axios": "^1.2.2",
+    "dayjs": "^1.11.7",
+    "element-plus": "^2.2.28"
   }
 }

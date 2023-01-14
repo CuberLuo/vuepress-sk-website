@@ -1,3 +1,9 @@
+---
+sidebar: false
+contributors: false
+lastUpdated: false
+---
+
 # 捐赠方式
 
 |                                                        支付宝                                                        |                                                         微信                                                         |
