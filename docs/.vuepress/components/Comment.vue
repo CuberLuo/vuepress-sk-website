@@ -67,8 +67,8 @@ import axios from 'axios'
 import dayjs from 'dayjs'
 import Emoji from './Emoji.vue'
 
-const baseURL = 'http://localhost:88'
-// const baseURL = 'http://1.15.134.164:88'
+// const baseURL = 'http://localhost:88'
+const baseURL = 'http://1.15.134.164:88'
 const textarea = ref('')
 const nickname = ref('')
 const comments_arr = ref([])
